@@ -1,6 +1,6 @@
 # Product Recommended System
 ### Preview
-![image](https://github.com/user-attachments/assets/c69e6415-1295-49a4-ab14-7ea6ff260a70)
+![Screenshot 2025-01-30 220702](https://github.com/user-attachments/assets/bf22c0f9-f07c-4f17-9ccf-8fbe039499d9)
 ![image](https://github.com/user-attachments/assets/fe6d5156-79a9-47fb-941f-7df9071f42df)
 
 ### Live:
